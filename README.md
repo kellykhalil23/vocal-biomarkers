@@ -10,6 +10,8 @@ How can it be used?
 
  The evolution of voice technology, audio signal analysis, and natural language processing/understanding methods have opened the way to numerous potential applications of voice, such as the identification of vocal biomarkers for diagnosis, classification, or patient remote monitoring, or to enhance clinical practice . The changes in the voice may be barely perceptible to the human ear. But digital technologies and artificial intelligence can measurably detect them as useful markers for diagnostic and medical purposes.  A biomarker is a factor objectively measured and evaluated which represents a biological or pathogenic process, or a pharmacological response to a therapeutic intervention , which can be used as a replacement marker of a clinical endpoint.  In the context of voice, a vocal biomarker is a signature, a feature, or a combination of features from the audio signal of the voice that is associated with a clinical outcome and can be used to monitor patients, diagnose a condition, or grade the severity or the stages of a disease or for drug development . It must have all the properties of a traditional biomarker, which are validated analytically, qualified using an evidentiary assessment, and utilized
  
+ ![image](https://user-images.githubusercontent.com/124357947/216839543-fa75c4eb-f743-40a8-8191-5066868f0768.png)
+
 
 Cardiometabolic and Cardiovascular Diseases
 
@@ -23,7 +25,11 @@ Mental Health and Monitoring Emotions
 
 Stress is an established risk factor of vocal symptoms. It was shown that smartphone-based self-assessed stress was connected with voice features .A positive correlation between stress levels and duration of verbal interaction has also been reported. Voice symptoms seem more frequent in people with high levels of cortisol , which is common in patients with depression; therefore, voice characteristics are used to discover depression symptoms or estimate depression severity. An automated telephone system has been successfully tested to assess biologically based vocal acoustic measures of depression severity and treatment response or to compute a post-traumatic stress disorder mental health score .Beside acoustic measures, the linguistic aspects of voice are likely to be affected in mental diseases. Discourse tends to be incoherent in schizophrenia, manifested by disjointed flow of ideas, nonsensical associations between words, or digressions from the topic. Circumstantial speech is prominent in patients with bipolar and histrionic personality disorders. Recent methodological developments have also allowed for improved emotion recognition accuracy ,which enables sufficient maturity to be reached for medical research to monitor patients in between visits or to gather real-life information in clinical or epidemiological studies.
 
+![image](https://user-images.githubusercontent.com/124357947/216839585-f76f3596-d786-4a99-825c-7a4491d471af.png)
+
+
 Technical challenges
+
 
 Building and sharing large databanks of highly qualified audio recordings with clinical data and identifying key vocal biomarker candidates ,Increase audio data harmonization and standardization across studies, Move from language-, accent-, age-, and culture-specific vocal biomarkers to more universal ones Improve algorithm accuracy, Embed algorithms into medical devices (apps, vocal assistants, smart mirrors …) and prototyping
 
