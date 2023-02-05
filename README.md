@@ -28,7 +28,8 @@ Building and sharing large databanks of highly qualified audio recordings with c
 Summary
 
 
- Today, voice technology is even considered as one of the most promising sectors, with healthcare being predicted to be a dominant vertical in voice applications , this platform will be able to provide a better alternative to the invasive diagnostic techniques by using just the human voice. Your “I’m not feeling well” may just be enough to figure out what’s wrong without having to go through a series of cumbersome diagnostic tests. It will definitely be a major win for the diagnostic medicine
+ Today, voice technology is even considered as one of the most promising sectors, with healthcare being predicted to be a dominant vertical in voice applications , this platform will be able to provide a better alternative to the invasive diagnostic techniques by using just the human voice. Your “I’m not feeling well” may just be enough to figure out what’s wrong without having to go through a series of cumbersome diagnostic tests. It will definitely be a major win for the diagnostic medicine:
+ 
 Sources:
 
 
