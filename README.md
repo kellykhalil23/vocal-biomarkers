@@ -24,10 +24,13 @@ Stress is an established risk factor of vocal symptoms. It was shown that smartp
 Technical challenges
 
 Building and sharing large databanks of highly qualified audio recordings with clinical data and identifying key vocal biomarker candidates ,Increase audio data harmonization and standardization across studies, Move from language-, accent-, age-, and culture-specific vocal biomarkers to more universal ones Improve algorithm accuracy, Embed algorithms into medical devices (apps, vocal assistants, smart mirrors …) and prototyping
+
 Summary
+
 
  Today, voice technology is even considered as one of the most promising sectors, with healthcare being predicted to be a dominant vertical in voice applications , this platform will be able to provide a better alternative to the invasive diagnostic techniques by using just the human voice. Your “I’m not feeling well” may just be enough to figure out what’s wrong without having to go through a series of cumbersome diagnostic tests. It will definitely be a major win for the diagnostic medicine
 Sources:
+
 
 •	Digit Biomark. 2021 Jan-Apr; 5(1): 78–88.
 Published online 2021 Apr 16. doi: 10.1159/000515346
