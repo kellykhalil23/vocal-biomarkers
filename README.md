@@ -40,7 +40,6 @@ Summary
  
 Sources:
 
-
 •	Digit Biomark. 2021 Jan-Apr; 5(1): 78–88.
 Published online 2021 Apr 16. doi: 10.1159/000515346
 Guy Fagherazzi,a Aurélie Fischer,a Muhannad Ismael,b and Vladimir Despotovicc
