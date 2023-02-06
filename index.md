@@ -23,7 +23,7 @@ A team from the Mayo Clinic has identified several vocal features associated wit
 
 More recently, considerable research activity has emerged to use respiratory sounds (e.g., coughs, breathing, and voice) as primary sources of information in the context of the COVID-19 pandemic .COVID-19 is a respiratory condition, affecting breathing and voice, and causing, among other symptoms, dry cough, sore throat, excessively breathy voice, and typical breathing patterns. These are all symptoms that can make patients' voices distinctive, creating recognizable voice signatures and enabling the training of algorithms to predict the presence of a SARS-COV-2 infection or as a tool to grade the severity of the disease. Results on vocal biomarkers to aid the diagnosis of COVID-19 by Cambridge University, or more recently by MIT scientists  are promising. Other projects based on cough sounds are ongoing with the objective of developing a robot-based COVID-19 infection risk evaluation system. Future work should focus on the impact of the age category or the cultural background on the performances of cough-based algorithms, before launching such pre-screening tools on a large scale.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C37n8fj4vaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/C37n8fj4vaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 # Mental Health and Monitoring Emotions
 
@@ -43,12 +43,12 @@ Today, voice technology is even considered as one of the most promising sectors,
  
 # Sources:
 
-* Digit Biomark. 2021 Jan-Apr; 5(1): 78–88. Published online 2021 Apr 16. doi: 10.1159/000515346. Guy Fagherazzi,a Aurélie Fischer,a Muhannad Ismael,b and Vladimir Despotovicc: https://pubmed.ncbi.nlm.nih.gov/34056518/ 
+* Digit Biomark. 2021 Jan-Apr; 5(1): 78–88. Published online 2021 Apr 16. doi: 10.1159/000515346. Guy Fagherazzi,a Aurélie Fischer,a Muhannad Ismael,b and Vladimir Despotovicc: [https://pubmed.ncbi.nlm.nih.gov/34056518/](https://pubmed.ncbi.nlm.nih.gov/34056518/)
 
-* Vocal biomarkers could be the future of diagnostic medicine: https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine 
+* Vocal biomarkers could be the future of diagnostic medicine: [https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine)](https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine)
 
-* Home » Research News » Vocal Biomarkers: What our voice tells us about our health: https://www.researchluxembourg.org/en/vocal-biomarkers-what-our-voice-tells-us-about-our-health/
+* Home » Research News » Vocal Biomarkers: What our voice tells us about our health: [https://www.researchluxembourg.org/en/vocal-biomarkers-what-our-voice-tells-us-about-our-health/](https://www.researchluxembourg.org/en/vocal-biomarkers-what-our-voice-tells-us-about-our-health/)
 
-* https://youtu.be/dxqrtRkZqRk
+* [https://youtu.be/dxqrtRkZqRk](https://youtu.be/dxqrtRkZqRk)
 
-* https://youtu.be/2v8cIT2o6FM
+* [https://youtu.be/2v8cIT2o6FM](https://youtu.be/2v8cIT2o6FM)
