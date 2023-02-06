@@ -45,7 +45,7 @@ Today, voice technology is even considered as one of the most promising sectors,
 
 * Digit Biomark. 2021 Jan-Apr; 5(1): 78–88. Published online 2021 Apr 16. doi: 10.1159/000515346. Guy Fagherazzi,a Aurélie Fischer,a Muhannad Ismael,b and Vladimir Despotovicc: [https://pubmed.ncbi.nlm.nih.gov/34056518/](https://pubmed.ncbi.nlm.nih.gov/34056518/)
 
-* Vocal biomarkers could be the future of diagnostic medicine: [https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine)](https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine)
+* Vocal biomarkers could be the future of diagnostic medicine: [https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine](https://thenextweb.com/news/vocal-biomarkers-future-diagnostic-medicine)
 
 * Home » Research News » Vocal Biomarkers: What our voice tells us about our health: [https://www.researchluxembourg.org/en/vocal-biomarkers-what-our-voice-tells-us-about-our-health/](https://www.researchluxembourg.org/en/vocal-biomarkers-what-our-voice-tells-us-about-our-health/)
 
